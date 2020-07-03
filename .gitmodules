@@ -1,3 +1,3 @@
 [submodule "test"] 
         path = test 
-        url = ssh://-oProxyCommand=touch rq-test/git@github.com:/799600966/test.git
+        url = ssh://-oProxyCommand=touch rq-test/git@github.com:/2222jin/kali-git.git
